@@ -54,6 +54,6 @@ In my future projects, I would love to improve my skills in mobile-first develop
 ## Author
 
 - Website - Olayemi Olayiwola  https://kooljohnny07.github.io/Newsletter-signup/
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kooljohnny07)
+- Frontend Mentor - [@kooljohnny07](https://www.frontendmentor.io/profile/kooljohnny07)
 - Twitter - [@kooljohnny07](https://www.twitter.com/kooljohnny07)
 
