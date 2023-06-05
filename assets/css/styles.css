@@ -37,7 +37,7 @@ main {
   margin-top: 20px;
 }
 
-.features span {
+.features div {
   display: flex;
   align-items: center;
   margin: 2px 0px;
@@ -91,7 +91,8 @@ main {
 	display: far-right;
 }
 
-[role=card] {
+
+.card {
 	background-color: hsl(0, 0%, 100%);
 	width: 24vw;
 	margin: auto;
@@ -102,17 +103,20 @@ main {
 	
 }
 
-[role=card] h1 {
+
+.card h1 {
 	font-size: 2.5em;
 	line-height: 1em;
 }
 
-[role=card] p {
+
+.card p {
 	line-height: 1.2em;
 	font-size: 1em;
 }
 
-[role=card] img {
+
+.card img {
 	width:20%;
 }
 
@@ -181,7 +185,8 @@ main {
 }
 
   
-[role=card] {
+
+.card {
 	background-color: hsl(0, 0%, 100%);
 	width: 1000%;
 	height: 100vh;
@@ -191,16 +196,18 @@ main {
 	
 }
 
-[role=card] h1 {
+
+.card h1 {
 	font-size: 2em;
 }
 
-[role=card] p {
+.card p {
 	line-height: 1.2em;
 	font-size: 1.2em;
 }
 
-[role=card] img {
+
+.card img {
 	margin-top: 40px;
 	width:15%;
 }
